@@ -5,7 +5,7 @@ This repository holds my python programming projects done during the period of s
 Take a look at my [Demo Videos](https://drive.google.com/drive/folders/1pNusfoFggTmSRV7imo0tlVEOpDtIcoR7?usp=sharing)!
 
 ### Project Source Code
-* Hangman Game
+* [Hangman Game](https://github.com/ZachhHsu/Stancode_SC101_project/blob/main/Github/Hangman/hangman.py)
   - python semantics & syntax
 * [Myphotoshop](https://github.com/ZachhHsu/Stancode_SC101_project/blob/main/Github/my_photoshop/stanCodoshop.py)
   - image processing
