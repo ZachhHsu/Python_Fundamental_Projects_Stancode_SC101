@@ -1,4 +1,4 @@
-## Stancode_SC101_project
+## Python Fundamental Projects (Stancode_SC101)
 Hi guys!\
 This repository holds my python programming projects done during the period of stanCode SC101 course.
 
